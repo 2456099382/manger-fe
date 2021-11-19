@@ -2,7 +2,7 @@
   "name": "manger-fe",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --mode dev",
+    "dev": "vite --mode dev --host",
     "build": "vite build",
     "serve": "vite preview"
   },
